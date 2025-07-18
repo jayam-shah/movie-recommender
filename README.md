@@ -94,9 +94,6 @@ Master's in Data Analytics, San Jose State University
 ---
 
 **Note:** This project is for educational and demonstration purposes only.
-
-```
-
 ---
 
 📌 Just replace:
